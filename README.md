@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-My name is Harry Stuart and I am a machine learning engineer from Melbourne, Australia with a wide variety of interests and projects, from cognitive science research to software engineering. I have a particularly keen interest in the theory and mathematics that buttresses advanced algorithms and artificial intelligence.
+I will be working as a Research Engineer at MBZUAI from November 2025 under the supervision of Tim Baldwin in the NLP department. Having spent the last 5 years of my Machine Learning career in industry, I am excited to transition into more formal research.
 
-As you likely expect, 95% of the code I write belongs to the companies I have worked for. However, please feel free to look through my repositories - they are mainly casual personal projects, but still show off some cool tech.
+My GitHub is a pretty bad reflection of my code contributions as they are typically made to closed-source or hosted privately.
